@@ -2,7 +2,7 @@ Projeto desenvolvido em React, feito para praticar conceitos fundamentais do fro
 
 Ao ser acessado, o site apresenta uma página inicial interativa, com foco na experiência do usuário. A navegação fornece diferentes rotas, como:
 
-- HOME - exibe a página inicial, onde é possível também ter acesso à sessão "TRENDING NOW" que indica os filmes mais populares no momento.
+- HOME — exibe a página inicial, onde é possível também ter acesso à sessão "TRENDING NOW" que indica os filmes mais populares no momento.
 - CATALOG — mostra todos os filmes disponíveis no catálogo.
 - REVIEW — rota para a qual o usuário é redirecionado ao clicar na capa de um filme ou pesquisá-lo pela barra de navegação.
 
