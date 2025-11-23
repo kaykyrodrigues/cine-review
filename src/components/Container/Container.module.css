@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(black, rgb(10, 10, 10));
+  overflow-x: hidden;
+
+  color: rgb(241, 241, 241);
+
+  text-align: center;
+}

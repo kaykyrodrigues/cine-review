@@ -1,0 +1,22 @@
+.category {
+  display: flex;
+  flex-direction: column;
+
+  font-size: 1.1em;
+  min-width: 280px;
+  max-width: 1200px;
+}
+
+.category div {
+  display: flex;
+
+  margin: auto;
+  width: 94%;
+  height: 380px;
+}
+
+.category p {
+  font-size: 1.5em;
+  font-weight: 500;
+  margin: 5px;
+}

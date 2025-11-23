@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    background-color: rgb(0, 0, 0);
+    border-bottom: 3px solid #cd070700;
+    top: 0;
+    width: 100%;
+    
+    font-size: 1.0rem;
+}
+
+.header a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-inline: 0.5rem;
+    font-weight: 400;
+}
+
+.header a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 150px;
+}

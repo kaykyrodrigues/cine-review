@@ -1,0 +1,89 @@
+[
+  {
+    "id": "3cxixDgHUYw",
+    "cover": "/images/justiceleague-poster.jpg",
+    "banner": "/images/justiceleague-banner.jpg",
+    "link": "https://www.youtube.com/watch?v=3cxixDgHUYw&t=2s",
+    "title": "Justice League",
+    "category": ["TRENDING NOW", "Action", "Adventure"],
+    "synopsis": "The film 'Justice League' follows the aftermath of Superman's death, where Batman and Wonder Woman seek to recruit a team of heroes to combat the threat posed by Steppenwolf and his Parademons. The ensemble cast includes Ben Affleck as Batman, Henry Cavill as Superman, Gal Gadot as Wonder Woman, Ezra Miller as The Flash, Jason Momoa as Aquaman, Ray Fisher as Cyborg, Amy Adams as Lois Lane, Jeremy Irons as Alfred, Diane Lane as Martha Kent, Connie Nielsen as Queen Hippolyta, and J.K. Simmons as Victor Stone. The film explores themes of sacrifice, unity, and the struggle for humanity's survival against a powerful new enemy.",
+    "date": "2021",
+    "director": "Zack Snyder"
+  },
+  {
+    "id": "i6avfCqKcQo",
+    "cover": "/images/interstellar-poster.jpg",
+    "banner": "/images/insterstellar-banner.jpg",
+    "link": "https://www.youtube.com/watch?v=i6avfCqKcQo",
+    "title": "Interstellar",
+    "category": ["TRENDING NOW", "SCI-FI", "Adventure"],
+    "synopsis": "Interstellar is a science fiction film that explores the possibility of traveling through space and time. The story takes place in a future where Earth becomes uninhabitable, and a group of explorers discovers a black hole that enables this travel. The film follows Joseph Cooper, played by Matthew McConaughey, who must leave his family to venture into space and save humanity. The plot raises questions about love, sacrifice, and the survival of the human species.",
+    "date": "2014",
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": "FnCdOQsX5kc",
+    "cover": "/images/it-poster.jpg",
+    "banner": "/images/it-banner.jpg",
+    "link": "https://www.youtube.com/watch?v=FnCdOQsX5kc",
+    "title": "It",
+    "category": ["TRENDING NOW", "Horror"],
+    "synopsis": "The film It follows a group of young teens in the town of Derry, Maine, who are terrorized by an otherworldly clown named Pennywise. The group must band together to stop the fiend before it kills them all. The story is a horror film classic that has left a lasting impact on the genre and has been praised for its memorable scare moments and special effects.",
+    "date": "2017",
+    "director": "Andy Muschietti"
+  },{
+    "id": "40IBUnOZoC4",
+    "cover": "/images/kungfupanda-poster.jpg",
+    "banner": "/images/kungfupanda-banner.jpg",
+    "link": "https://www.youtube.com/watch?v=40IBUnOZoC4",
+    "title": "Kung Fu Panda",
+    "category": ["TRENDING NOW", "Animation", "Adventure"],
+    "synopsis": "Kung Fu Panda is a 2008 American computer-animated action/comedy film produced by DreamWorks Animation and distributed by Paramount Pictures. The film follows the story of Po, a clumsy panda who idolizes Kung Fu and works in his family's noodle shop. Unexpectedly chosen to fulfill an ancient prophecy, Po joins the Furious Five and Master Shifu to protect the Valley of Peace from the vengeful snow leopard Tai Lung. The film explores themes of destiny, hard work, and the power of one's strengths, even when they are not initially recognized.",
+    "date": "2011",
+    "director": "Mike Mitchell"
+  },
+  {
+    "id": "QjKO10hKtYw",
+    "cover": "/images/godzilla-poster.jpg",
+    "banner": "/images/godzilla-banner.jpg",
+    "link": "https://www.youtube.com/watch?v=QjKO10hKtYw",
+    "title": "Kung Fu Panda",
+    "category": ["TRENDING NOW", "SCI-FI"],
+    "synopsis": "Joe Brody (Bryan Cranston) raised his son alone after his wife (Juliette Binoche) died in an accident at the nuclear plant where they both worked in Japan. He never came to terms with the disaster and fifteen years later continues to dwell on what happened, trying to find some explanation. Ford Brody (Aaron Taylor-Johnson), now an adult, is a soldier in the American army and must fight desperately to save the world – and especially his family – from the gigantic, unstoppable, and incredibly terrifying monster Godzilla.",
+    "date": "2014",
+    "director": "Gareth Edwards"
+  },
+  {
+    "id": "QWBKEmWWL38",
+    "cover": "/images/jurassic-poster.jpg",
+    "banner": "/images/jurassic-banner.jpg",
+    "link": "https://www.youtube.com/watch?v=QWBKEmWWL38",
+    "title": "Jurassic Park",
+    "category": ["TRENDING NOW", "SCI-FI", "Adventure"],
+    "synopsis": "A park built by a millionaire (Richard Attenborough) is home to various dinosaurs, extinct for sixty-five million years. This is made possible by the discovery of a fossilized insect that had sucked the blood of these dinosaurs, from which DNA, the chemical code of life, could be isolated and, from that point, recreated in the laboratory. But what seemed like a dream turns into a nightmare when the experiment gets out of the hands of its creators.",
+    "date": "1997",
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": "6ZfuNTqbHE8",
+    "cover": "/images/avengers-poster.jpg",
+    "banner": "/images/avengers-banner.jpg",
+    "link": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+    "title": "Avengers: Infinity War",
+    "category": ["TRENDING NOW", "SCI-FI", "Adventure"],
+    "synopsis": "In Avengers: Infinity War, Thanos (Josh Brolin) finally arrives on Earth, determined to collect the Infinity Stones. To face him, the Avengers must join forces with the Guardians of the Galaxy, while also dealing with disagreements among some of their members.",
+    "date": "2018",
+    "director": "Anthony and Joe Russo"
+  },
+  {
+    "id": "MnAi5u-k9NY",
+    "cover": "/images/iceage-poster.jpg",
+    "banner": "/images/iceage-banner.jpg",
+    "link": "https://www.youtube.com/watch?v=MnAi5u-k9NY",
+    "title": "Ice Age 3",
+    "category": ["TRENDING NOW", "Animation", "Adventure"],
+    "synopsis": "In 'Ice Age: Dawn of the Dinosaurs', the story unfolds as Manny and Ellie prepare for their baby's arrival, while Sid, a sloth, encounters dinosaur eggs, leading to a family of his own. The group's adventure takes them to a mysterious underground world where they must rescue Sid from a mother T-Rex and face various dinosaurs and dangers. The film explores themes of family, adventure, and the challenges of growing up, all while maintaining the humor and wit that fans have come to love in the Ice Age series. ",
+    "date": "2009",
+    "director": "Carlos Saldanha"
+  }
+]
